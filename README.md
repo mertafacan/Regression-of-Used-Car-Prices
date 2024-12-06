@@ -2,7 +2,7 @@
 
 This repository contains my solution for the **2024 Kaggle Tabular Playground Series** competition. The goal was to predict the price of used cars based on various features, using **Root Mean Squared Error (RMSE)** as the evaluation metric.
 
-**Ranking**: 313th out of 3068 participants top 10%.
+**Ranking**: 313th out of 3068 participants (Top 10%).
 
 ##  Approach
 
