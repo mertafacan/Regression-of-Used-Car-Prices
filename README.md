@@ -13,7 +13,7 @@ This repository contains my solution for the **2024 Kaggle Tabular Playground Se
    - Created new features (e.g., car age) and applied transformations to improve model performance.
 
 3. **Modeling**: 
-   - Used models like **LightGBM**, **Random Forest**, and **Gradient Boosting**.
+   - Used models like **LightGBM** and **XGBoost**.
    - Applied **Optuna** for hyperparameter optimization.
 
 4. **Evaluation**: 
