@@ -4,7 +4,9 @@ This repository contains my solution for the **2024 Kaggle Tabular Playground Se
 
 **Ranking**: 313th out of 3068 participants (Top 10%).
 
-##  Approach
+You can access the competition page [here](https://www.kaggle.com/competitions/playground-series-s4e9).
+
+## Approach
 
 1. **Data Preprocessing**: 
    - Cleaned the data, handled missing values, and encoded categorical features.
